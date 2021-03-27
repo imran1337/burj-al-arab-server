@@ -1,0 +1,17 @@
+{
+  "name": "Burj_Al_Arab_Server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Imran Khan",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.5.0",
+    "mongodb": "^3.6.5"
+  }
+}
